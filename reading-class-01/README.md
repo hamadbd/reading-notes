@@ -10,3 +10,16 @@ Absolutely yes! there is a reason why i joined , i want it all
 for the past version of me, the slef me, for the future me :)
 # Big(O)
 Big O Notation can be scary. But it doesn't have to be! We unpack this popular cs topic and show you how we can use it to evaluate different data structures (like linked lists!) and make better programming decisions.
+- Big O is an algorthim that describes the time needed to execute an algorthim. Also, it specifies the worst-case scenario.
+
+- O( l ): algorthim executes in the same time.
+
+- O( N ): algorthim performance grows lineraly with the size of the input.
+
+- O( N ^ 2): algorthim performance proportional to the square of the input.
+
+- O(2 ^ N): algorthim performance doubles with each addition to the input.
+
+## Things I want to know more about
+do we always look at the worst case scenarios ?
+isnt there a way to find the BigOs easily ?
