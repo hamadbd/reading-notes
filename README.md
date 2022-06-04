@@ -2,4 +2,7 @@
 
 ## In here Ill be adding my learning Journey ##
 
-## feel free to check the files above :) ##
+| </>Topic      | Link |
+| ----------- | ----------- |
+| SQL      | [SQL](https://github.com/hamadbd/reading-notes/tree/main/SQL%20Practice)       |
+| Terminal Practice | [TErminal](https://github.com/hamadbd/reading-notes/tree/main/Terminal%20Practice)|
