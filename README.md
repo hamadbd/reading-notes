@@ -1,6 +1,6 @@
 # reading-notes
 
-## In here Ill be adding my learning Journey ##
+## In here I'll be adding my learning Journey ##
 
 | </>Topic      | Link |
 | ----------- | ----------- |
