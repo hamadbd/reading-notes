@@ -13,7 +13,7 @@
 | Random Module | [class05](https://github.com/hamadbd/reading-notes/tree/main/Random%20Module)|
 | Classes and Objects | [class05](https://github.com/hamadbd/reading-notes/tree/main/Classes%20%26%20Objects)|
 | Python Scopes | [class06](https://github.com/hamadbd/reading-notes/tree/main/Python_Scope)|
-| Python Scopes | [class07](https://github.com/hamadbd/reading-notes/tree/main/List%20Comprehensions)|
+| Python Comprehensions | [class07](https://github.com/hamadbd/reading-notes/tree/main/List%20Comprehensions)|
 
 
 
