@@ -14,6 +14,4 @@
 | Classes and Objects | [class05](https://github.com/hamadbd/reading-notes/tree/main/Classes%20%26%20Objects)|
 | Python Scopes | [class06](https://github.com/hamadbd/reading-notes/tree/main/Python_Scope)|
 | Python Comprehensions | [class07](https://github.com/hamadbd/reading-notes/tree/main/List%20Comprehensions)|
-
-
-
+| Stacks & Queues | [class08](https://github.com/hamadbd/reading-notes/tree/main/Stacks_%26_Queues)|
