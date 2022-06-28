@@ -16,3 +16,4 @@
 | Python Comprehensions | [class07](https://github.com/hamadbd/reading-notes/tree/main/List%20Comprehensions)|
 | Stacks & Queues | [class08](https://github.com/hamadbd/reading-notes/tree/main/Stacks_%26_Queues)|
 | Dunder Methods | [class09](https://github.com/hamadbd/reading-notes/tree/main/Dunder%20and%20Statistics)|
+| JupyterLab | [class10](https://github.com/hamadbd/reading-notes/tree/main/JupyterLab)|
