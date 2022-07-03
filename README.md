@@ -19,3 +19,4 @@
 | JupyterLab | [class10](https://github.com/hamadbd/reading-notes/tree/main/JupyterLab)|
 | Pandas | [class11](https://github.com/hamadbd/reading-notes/tree/main/Pandas)|
 | Linear Regression | [class12](https://github.com/hamadbd/reading-notes/tree/main/LinearRegression)|
+| Binary Trees | [class13](https://github.com/hamadbd/reading-notes/tree/main/Trees)|
