@@ -20,3 +20,4 @@
 | Pandas | [class11](https://github.com/hamadbd/reading-notes/tree/main/Pandas)|
 | Linear Regression | [class12](https://github.com/hamadbd/reading-notes/tree/main/LinearRegression)|
 | Binary Trees | [class13](https://github.com/hamadbd/reading-notes/tree/main/Trees)|
+| Data Visualization | [class14](https://github.com/hamadbd/reading-notes/tree/main/Data%20Visualization)|
