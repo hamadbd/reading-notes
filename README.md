@@ -21,3 +21,4 @@
 | Linear Regression | [class12](https://github.com/hamadbd/reading-notes/tree/main/LinearRegression)|
 | Binary Trees | [class13](https://github.com/hamadbd/reading-notes/tree/main/Trees)|
 | Data Visualization | [class14](https://github.com/hamadbd/reading-notes/tree/main/Data%20Visualization)|
+| Web Scraping | [class15](https://github.com/hamadbd/reading-notes/tree/main/Web%20Scraping)|
