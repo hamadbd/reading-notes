@@ -24,4 +24,6 @@
 | Web Scraping | [class15](https://github.com/hamadbd/reading-notes/tree/main/Web%20Scraping)|
 | Crypto | [class16](https://github.com/hamadbd/reading-notes/tree/main/Cryptography)|
 | Hash Tables | [class17](https://github.com/hamadbd/reading-notes/tree/main/Hash%20Tables)|
-| Django | [class18](https://github.com/hamadbd/reading-notes/tree/main/Django)|
+| Django | [class18](https://github.com/hamadbd/reading-notes/tree/main/Django)
+| Permessions and Postgresql | [class32](https://github.com/hamadbd/reading-notes/blob/main/Permissions%20%26%20Postgresql/README.md)|
+
